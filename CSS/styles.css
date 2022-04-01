@@ -1,0 +1,7 @@
+h1{
+    font-weight: bold;
+    color: red;
+}
+body{
+    background:linear-gradient(to bottom, rgb(12 14 17), rgba(40, 40, 41, 0.9));
+}
